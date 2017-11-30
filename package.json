@@ -1,6 +1,6 @@
 {
   "name": "build-xmake",
-  "version": "0.3.0",
+  "version": "0.0.0",
   "description": "Runs XMOS XMake",
   "repository": "https://github.com/jh14778/atom-build-xmake",
   "license": "MIT",
