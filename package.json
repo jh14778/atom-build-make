@@ -33,7 +33,7 @@
   ],
   "main": "lib/make.js",
   "dependencies": {
-    "voucher": "^0.1.2"
+    "voucher": "^0.1.2",
     "fs-finder": "^1.8.1"
   }
 }
